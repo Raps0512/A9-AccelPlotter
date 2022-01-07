@@ -39,8 +39,8 @@ To run this script:
 9. A graph will generated within the project folder
 
 ## Sample
-- [Demo1](https://github.com/HughLi2024/accelplotter/tree/main/Demo1) is a the end result of the program by inputting a 31s gameplay video
-- [Demo2](https://github.com/HughLi2024/accelplotter/tree/main/Demo2) is a the end result of the program by inputting a 1m52s gameplay video. Note that the OCR is unable to accurately determine the speed in all frames. The spreadsheet was manually checked and edited
+- [Demo1](https://github.com/Raps0512/A9-AccelPlotter/tree/main/Demos/Demo1) is a the end result of the program by inputting a 31s gameplay video
+- [Demo2](https://github.com/Raps0512/A9-AccelPlotter/tree/main/Demos/Demo2) is a the end result of the program by inputting a 1m52s gameplay video. Note that the OCR is unable to accurately determine the speed in all frames. The spreadsheet was manually checked and edited
   
 ![Demo1 GIF Demonstration](https://i.imgur.com/vl0f0Gg.gif)
 ![Demo1 Output Graph](https://user-images.githubusercontent.com/89252151/148556772-17f005d1-9a84-43f2-8a28-68cd552c0af6.png)
